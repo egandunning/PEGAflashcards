@@ -16,3 +16,4 @@ To view random flashcards, run `java -jar glossary.jar random`, then press enter
 press enter to view its definition.
 
 
+![Random Terms](resources/flashcarddemo-randomfeature.gif)
